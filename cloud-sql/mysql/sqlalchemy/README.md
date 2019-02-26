@@ -68,3 +68,12 @@ Next, the following command will deploy the application to your Google Cloud pro
 ```bash
 gcloud app deploy
 ```
+
+
+Hello Kurtisvg,
+
+I'm Sudarson and let me get this straight,  I tried connecting mysql with Python3.7 and I referred https://github.com/GoogleCloudPlatform/python-docs-samples/blob/master/cloud-sql/mysql/sqlalchemy/main.py.
+
+I'm getting this error when running when I'm trying to connect using web preview: Failed to upload to ftp: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno 2] No such file or directory)") (Background on this error at: http://sqlalche.me/e/e3q8
+
+Can you help me please?
